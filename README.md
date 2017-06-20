@@ -1,5 +1,6 @@
-# How to make developer Env  
-  
+# vimEditorUse
+
+This repo is all about how to use vi editor
 ![alt text](https://raw.githubusercontent.com/gitachyut/vimEditorUse/master/zsh.png)
   
   
