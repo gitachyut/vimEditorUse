@@ -2,6 +2,8 @@ set nocompatible
 filetype off
 filetype plugin on
 filetype plugin indent on
+" disabled swap file auto creation
+set noswapfile
 " show existing tab with 4 spaces width
 set tabstop=4
 " when indenting with '>', use 4 spaces width
